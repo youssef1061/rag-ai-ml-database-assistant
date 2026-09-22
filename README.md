@@ -145,22 +145,6 @@ pytest -q
 
 The tests include health status, a successful query, and invalid input returning HTTP 422.
 
-## Evaluation results
-
-The notebook includes a 10-question evaluation table. Fill the `answer summary`, relevance, grounding, and correctness columns after you run the actual system. Do not fabricate results.
-
-| Question | Expected source | Relevant? | Grounded? | Correct? |
-|---|---|---|---|---|
-| What is artificial intelligence? | AI.txt | To be measured | To be measured | To be measured |
-| What is machine learning? | Machine_Learning.txt | To be measured | To be measured | To be measured |
-| What is a database? | Database.txt | To be measured | To be measured | To be measured |
-| What is supervised learning? | Machine_Learning.txt | To be measured | To be measured | To be measured |
-| What is overfitting? | Machine_Learning.txt | To be measured | To be measured | To be measured |
-| What is a DBMS? | Database.txt | To be measured | To be measured | To be measured |
-| What are advantages of databases? | Database.txt | To be measured | To be measured | To be measured |
-| How are AI and ML related? | AI.txt / Machine_Learning.txt | To be measured | To be measured | To be measured |
-| What is training data? | Machine_Learning.txt | To be measured | To be measured | To be measured |
-| What is the capital of Egypt? | No source expected | To be measured | To be measured | Correct refusal expected |
 
 ## Limitations
 
