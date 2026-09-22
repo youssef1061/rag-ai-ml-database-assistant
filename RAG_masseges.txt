@@ -1,0 +1,8 @@
+What is artificial intelligence?
+What is machine learning?
+What is deep learning?
+What is natural language processing?
+What is computer vision?
+What is the difference between supervised and unsupervised learning?
+What are the advantages of databases?
+What is the capital of Egypt?

@@ -1,0 +1,11 @@
+question,retrieved_source,answer_summary,context_relevant,grounded_or_hallucinated,correct_or_refusal
+What is artificial intelligence?,AI.txt (chunk 0); AI.txt (chunk 1); AI.txt (chunk 2); AI.txt (chunk 5),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
+What is machine learning?,Machine_Learning.txt (chunk 0); Machine_Learning.txt (chunk 1); AI.txt (chunk 2); Machine_Learning.txt (chunk 3),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
+What is the difference between supervised and unsupervised learning?,Machine_Learning.txt (chunk 1); Machine_Learning.txt (chunk 0); Machine_Learning.txt (chunk 2); AI.txt (chunk 1),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
+What is overfitting in machine learning?,Machine_Learning.txt (chunk 5); Machine_Learning.txt (chunk 0); Machine_Learning.txt (chunk 4); Machine_Learning.txt (chunk 3),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
+What is a database?,Database.txt (chunk 0); Database.txt (chunk 1); Database.txt (chunk 11); Database.txt (chunk 2),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
+What is a DBMS?,Database.txt (chunk 0); Database.txt (chunk 1); Database.txt (chunk 2); Database.txt (chunk 11),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
+What are the advantages of using a database?,Database.txt (chunk 0); Database.txt (chunk 1); Database.txt (chunk 11); Database.txt (chunk 6),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
+How are AI and machine learning related?,AI.txt (chunk 0); Machine_Learning.txt (chunk 0); AI.txt (chunk 1); AI.txt (chunk 2),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
+What is the purpose of training data?,Machine_Learning.txt (chunk 0); Machine_Learning.txt (chunk 1); AI.txt (chunk 3); AI.txt (chunk 4),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
+What is the capital of Egypt?,Database.txt (chunk 8); Database.txt (chunk 11); Machine_Learning.txt (chunk 8); Machine_Learning.txt (chunk 0),Run with Ollama and record actual answer,To be evaluated,To be evaluated,To be evaluated
